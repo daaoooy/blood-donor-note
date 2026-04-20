@@ -14,7 +14,7 @@
 
 <br/>
 
-### Deploy URL
+### Deploy URL (배포 주소)
 
 <p align="start">
   <a href="https://blood-donor-note.vercel.app/">
@@ -24,7 +24,7 @@
 
 <br/>
 
-### Tech Stack 
+### Tech Stack (기술 스택)
 
 | Category | Tech                            |
 |----------|---------------------------------|
@@ -58,6 +58,6 @@
 -->
 
 
-### Design System
+### Design System (디자인 시스템)
 
  <img src="https://github.com/daaoooy/blood-donor-note/blob/main/src/shared/assets/design-system-color-palette.png" alt="color-palette" align="start"/>
