@@ -37,7 +37,7 @@
 | Deployment | Vercel                        |
 
 <br/>
-
+<br/>
 
 <!-- 
 
@@ -60,4 +60,5 @@
 
 ### Design System (디자인 시스템)
 
- <img src="https://github.com/daaoooy/blood-donor-note/blob/main/src/shared/assets/design-system-color-palette.png" alt="color-palette" align="start"/>
+<img src="https://github.com/daaoooy/blood-donor-note/blob/main/src/shared/assets/design-system-color-palette.png" alt="color-palette" width=1200/>
+
