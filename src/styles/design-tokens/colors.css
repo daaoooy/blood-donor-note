@@ -1,0 +1,15 @@
+@theme {
+  /* Red Cross Red */
+  --color-red-cross-red-100: #ee1d23;
+  --color-red-cross-red-80: #f0593e;
+  --color-red-cross-red-60: #f58466;
+  --color-red-cross-red-40: #f9a98e;
+  --color-red-cross-red-20: #fdd2c1;
+
+  /* Red Cross Warm Gray */
+  --color-red-cross-warm-gray-100: #6c6256;
+  --color-red-cross-warm-gray-80: #a49b92;
+  --color-red-cross-warm-gray-60: #c2bbb5;
+  --color-red-cross-warm-gray-40: #dedad7;
+  --color-red-cross-warm-gray-20: #edecea;
+}
