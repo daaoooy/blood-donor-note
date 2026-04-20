@@ -16,7 +16,7 @@ const MainPage = () => {
           <Button className="bg-red-cross-red-100 hover:bg-red-cross-red-80 text-white">
             색상 토큰 테스트 1
           </Button>
-          <Button className="bg-red-cross-warm-gray-100 hover:bg-red-cross-wram-gray-80 text-white">
+          <Button className="bg-red-cross-warm-gray-100 hover:bg-red-cross-warm-gray-80 text-white">
             색상 토큰 테스트 2
           </Button>
         </div>
