@@ -18,7 +18,7 @@
 
 <p align="start">
   <a href="https://blood-donor-note.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=f0593E&text=BLOOD%20DONER%20NOTE&section=header&textBg=false&fontColor=ffffff&fontAlign=50&rotate=0&descSize=18&desc=해당%20영역%20클릭%20시%20서비스%20페이지로%20이동합니다.&descAlign=71&descAlignY=61&fontAlignY=43" />
+    <img src="https://capsule-render.vercel.app/api?type=speech&height=110&color=f58466&text=BLOOD%20DONER%20NOTE&section=header&textBg=false&fontColor=ffffff&fontAlign=50&rotate=0&descSize=12&desc=%ED%95%B4%EB%8B%B9%20%EC%98%81%EC%97%AD%20%ED%81%B4%EB%A6%AD%20%EC%8B%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A1%9C%20%EC%9D%B4%EB%8F%99%ED%95%A9%EB%8B%88%EB%8B%A4.&descAlign=50&descAlignY=67&fontAlignY=43&fontSize=40" />
   </a>
 </p>
 
