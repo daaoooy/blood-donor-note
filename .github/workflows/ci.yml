@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: ['main', 'develop']
+  pull_request:
+    branches: ['main', 'develop']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Node.js 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: pnpm 설치
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: 의존성 설치
+        run: pnpm install --frozen-lockfile
+
+      - name: ESLint 검사
+        run: pnpm lint
+
+      - name: 타입 체크
+        run: pnpm exec tsc --noEmit
+
+      - name: 빌드 테스트
+        run: pnpm build
