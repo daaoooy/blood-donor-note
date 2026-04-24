@@ -51,7 +51,7 @@ const Home = () => {
 
         <div className="flex flex-col gap-3 w-full">
           <Button
-            className="w-full py-5 rounded-full bg-red-cross-red-100 hover:red-cross-red-80 text-white shadow-sm"
+            className="w-full py-5 rounded-full bg-red-cross-red-100 hover:bg-red-cross-red-80 text-white shadow-sm"
             onClick={() => {
               handleClick();
               setTimeout(() => {
