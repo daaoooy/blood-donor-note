@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import { getUserById } from '@/features/user/api/user.api';
-import type { UserProfile } from '@/features/user/types/user.types';
+import type { UserProfile } from '@/features/user/types/user.domain.types';
 
 export const useUser = (id?: string) => {
   return useQuery<UserProfile | null>({
