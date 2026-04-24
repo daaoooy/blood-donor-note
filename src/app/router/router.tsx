@@ -11,6 +11,7 @@ import Setting from '@/pages/Setting';
 import Map from '@/pages/Map';
 import AddDonation from '@/pages/AddDonation';
 import Quiz from '@/pages/Quiz';
+import TagPreview from '@/pages/TagPreview';
 
 import { routePaths } from '@/app/router/routePaths';
 import AnimatedLayout from '@/app/layout/AnimatedLayout';
@@ -24,6 +25,7 @@ export default function Router() {
         <Route element={<AnimatedLayout />}>
           <Route path={routePaths.home} element={<Home />} />
           <Route path={routePaths.tag} element={<TagEntry />} />
+          <Route path={routePaths.tagPreview} element={<TagPreview />} />
           <Route path={routePaths.register} element={<Register />} />
           <Route path={routePaths.user} element={<UserPage />} />
           <Route

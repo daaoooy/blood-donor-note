@@ -1,6 +1,7 @@
 export const routePaths = {
   home: '/',
   tag: '/tag/:id',
+  tagPreview: '/preview',
   register: '/register/:id',
   user: '/user/:id',
   donationHistory: '/user/:id/donation-history',
