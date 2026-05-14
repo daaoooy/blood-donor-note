@@ -12,6 +12,10 @@ NFC 키링 태그를 통해 웹페이지에 간편하게 접속하고, 개인의
 또한 기록 기반 통계 시각화, 헌혈 주기 안내, 참여를 유도하는 인터랙션 요소 등을 제공하여, 단순 정보 확인을 넘어 지속적인 헌혈 참여를 지원합니다.
 별도의 앱 설치 없이 접근 가능한 구조로 설계되어 일상 속에서 쉽고 빠르게 활용할 수 있습니다.
 
+<img src="https://github.com/daaoooy/blood-donor-note/blob/main/src/shared/assets/design-draft-1.png" alt="color-palette" width=1200/>
+<img src="https://github.com/daaoooy/blood-donor-note/blob/main/src/shared/assets/design-draft-2.png" alt="color-palette" width=1200/>
+<img src="https://github.com/daaoooy/blood-donor-note/blob/main/src/shared/assets/design-draft-3.png" alt="color-palette" width=1200/>
+
 <br/>
 
 ### Deploy URL (배포 주소)
